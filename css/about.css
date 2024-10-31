@@ -1,0 +1,26 @@
+body {
+  background: #B2E0DF;
+}
+
+h1 {
+  text-align: center;
+  font-style: italic;
+  font-size: 2rem;
+}
+
+h2 {
+  text-align: center;
+  font-style: oblique;
+}
+
+p {
+  text-align: center;
+  font-style: normal;
+}
+
+hr {
+  border: dotted #15B392 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 30px auto;
+}
